@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.teste.js",
+      "**/*.test.js"
+    ]
+  },
+  "dependencies": {
+    "jest": "^30.5.2"
+  },
+  "name": "cerimonial-de-festas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "devDependencies": {
+    "jest-environment-jsdom": "^30.5.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
